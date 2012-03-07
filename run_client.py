@@ -1,7 +1,5 @@
 '''
-Created on 4 Mar 2012
-
-@author: Harry
+Just runs the client.
 '''
 from client import chatcontroller
 
